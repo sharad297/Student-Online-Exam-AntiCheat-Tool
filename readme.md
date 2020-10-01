@@ -1,6 +1,14 @@
 ﻿# Online Exam Student Anti-Cheat Tool
 
 In the age of a global pandemic the entire industry has shifted to a work from home enviornment. However Student Examintions taken online are still a tricky problem to solve as there are still a lot of loop holes for students to use while giving online exams or sitting for online lectures.
+A smart new secure testing software is set 
+Technology today has made learning easier for kids and students. Researching and reading the news has never been quicker and more convenient with the internet, laptop, and mobile devices. Connecting through the internet is just like bringing your own library with you. However, technology has also allowed many students to cheat without a second thought. Accessible information has made it easier for them to look for new ways to cheat.
+
+The problem is so prevalent that many schools have resorted to reverting back to pen and paper exams, a costly process which also greatly increases necessary administration.
+
+Banning technology in the classroom or in the exam setting is not the solution to this problem, especially when computers are heavily used in the classroom curriculum and in the workplace. Battling technology should be done with the use of similar technology.
+
+Having exam or anti-cheating software installed in the school’s or company's computers will help by restricting the sites that students can access during examinations. The software restricts certain web pages and processes in the computer to ensure the examinees are focused on the task in hand – the tests. This also prevents possible cheating and sharing of test questions online, and can have numerous benefits to any company using online training and testing software.to combat cheating and change the way students tackle exam preparation for good.
 
 
 ![Demo of app](https://github.com/Zorrat/Student-Online-Exam-AntiCheat-Tool/blob/master/models/images/demo.gif)
